@@ -11,7 +11,6 @@
 </div>
 
 
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 100%  /></div>
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;I'm+a+Freelancer+Software+Engineer;Aspiring+Developer;Always+learning+new+things&center=true&width=1000&height=75"></a>
