@@ -10,7 +10,9 @@
   </ul>
 </div>
 
-
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;I'm+a+Freelancer+Software+Engineer;Aspiring+Developer;Always+learning+new+things&center=true&width=1000&height=75"></a>
