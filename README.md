@@ -11,7 +11,7 @@
 </div>
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="centre" src="https://github.com/Gaurav1000m/Gaurav1000m/blob/main/FromKlickPinCFPinbyWphz1onSasukeVideo_SasukeeyesNarutoeyesEyeswallpaper-ezgif.com-crop.gif" width="1000px" height="250px" >
 </div>
 
 
