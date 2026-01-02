@@ -1,21 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=62cff4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=62cff4&size=35&center=true&vCenter=true&width=1000&lines=🚀+Welcome+to+my+GitHub+profile+🚀)](https://git.io/typing-svg)
 
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="38px">, I'm Gaurav</h1></summary>
-  </ul>
-</div>
+
 
 <div>
   <img align="centre" src="https://github.com/Gaurav1000m/Gaurav1000m/blob/main/FromKlickPinCFPinbyWphz1onSasukeVideo_SasukeeyesNarutoeyesEyeswallpaper-ezgif.com-crop.gif" width="1000px" height="250px" >
 </div>
 
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;I'm+a+Freelancer+Software+Engineer;Aspiring+Developer;Always+learning+new+things&center=true&width=1000&height=75"></a>
 
 
 <!--horizontal divider(gradiant)-->
@@ -162,12 +155,19 @@
 
 <br/>
 
+<h2 align="center">😍 Public Views 😍</h2>
+
+<div align="centre">
+<img src="https://count.getloli.com/get/@:Gaurav1000m?theme=gelbooru-h" alt=":name" align="centre" width="90%" height="20%" />
+</div>	
+
+
 
 
 <!-- Snake Game Repo View -->
-
+<h2 align="center">😎 Fun Animation 😎</h2>
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" height="45%" />
 </div>
 
 <h2 align="center">⚙️ Gɪᴛʜᴜʙ Analytics ⚙️ </h2>
